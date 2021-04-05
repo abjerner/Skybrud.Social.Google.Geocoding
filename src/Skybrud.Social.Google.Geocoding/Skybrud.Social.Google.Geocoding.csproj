@@ -11,7 +11,7 @@
     <Company>Skybrud.dk a/s</Company>
     <Product>Skybrud.Social</Product>
     <Authors>Anders Bjerner</Authors>
-    <Copyright>Copyright © 2020</Copyright>
+    <Copyright>Copyright © 2021</Copyright>
     <Description>Authentication and service implementation for the Google Geocoding API.</Description>
   </PropertyGroup>
 

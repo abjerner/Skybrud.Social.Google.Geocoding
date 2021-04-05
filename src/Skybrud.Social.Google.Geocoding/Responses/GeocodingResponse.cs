@@ -29,7 +29,6 @@ namespace Skybrud.Social.Google.Geocoding.Responses {
 
             throw new GeocodingHttpException(response, message, status);
 
-
         }
 
         #endregion
